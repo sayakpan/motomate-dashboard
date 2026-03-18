@@ -44,7 +44,7 @@ export default function LoginPage() {
         <div className="absolute inset-0 z-10" style={{ background: 'linear-gradient(to bottom, #09090b, transparent, transparent)', opacity: 0.4 }} />
 
         <img
-          src="https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=1200&q=80"
+          src="https://images.unsplash.com/photo-1767274859042-b0f619b8bc36?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
           alt="Motorcycle"
           className="absolute inset-0 w-full h-full object-cover"
         />
